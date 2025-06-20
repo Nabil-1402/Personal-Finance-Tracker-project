@@ -17,25 +17,23 @@ Testing: Postman (API testing)
 Tools: Maven, GitHub
 
 📸 Screenshots:
-    Login/Sign up page:
-    <img width="1020" alt="image" src="https://github.com/user-attachments/assets/280ed0c5-7c90-43b5-b41b-2c79e14c1ce0" />
-    <img width="1020" alt="image" src="https://github.com/user-attachments/assets/0b036a31-bf88-4e86-9ba0-9bb33af42114" />
+    Login and sign-up page:
+<img width="1020" alt="Screenshot 2025-06-20 at 15 25 18" src="https://github.com/user-attachments/assets/0d1916d1-61e5-4de9-974f-61aacf4e9caa" />
+<img width="1020" alt="Screenshot 2025-06-20 at 15 26 21" src="https://github.com/user-attachments/assets/75322762-4504-4020-9bb4-4ac4f55e3fd9" />
 
-    Dashbaord views:
-    <img width="1436" alt="image" src="https://github.com/user-attachments/assets/37cf2690-16e0-405f-98e7-18e4fc666f4f" />
-    
-      Create and view category dialog:
-      <img width="309" alt="image" src="https://github.com/user-attachments/assets/d24ea8f0-d738-450f-b757-ebbe84ee25c6" />
-      <img width="810" alt="image" src="https://github.com/user-attachments/assets/5f29876c-6f84-4c97-911d-161059a2b6f6" />
+    Create and view categories dialog:
+    <img width="310" alt="Screenshot 2025-06-20 at 15 42 45" src="https://github.com/user-attachments/assets/f9b17b75-fe22-4279-86bf-623fee3bc9f6" />
+    <img width="809" alt="Screenshot 2025-06-20 at 15 43 17" src="https://github.com/user-attachments/assets/7756fbbd-dca2-40e3-b554-c1e5959172aa" />
 
-        Transaction dialog:
-        <img width="697" alt="image" src="https://github.com/user-attachments/assets/174bcce1-042a-4bfb-a181-862978797a58" />
+    Recent transactions and transaction table:
+    <img width="1461" alt="Screenshot 2025-06-20 at 15 43 48" src="https://github.com/user-attachments/assets/9ff3b436-ae0e-4afb-985e-74d22aa064a3" />
 
-        Recent transactions and transactions table:
-        <img width="1440" alt="image" src="https://github.com/user-attachments/assets/09575323-626e-485b-989d-fbcd28077bad" />
+    Finance summary:
+    <img width="687" alt="Screenshot 2025-06-20 at 15 44 23" src="https://github.com/user-attachments/assets/64a98be5-086b-466d-b20e-e2ead9b89dec" />
 
-        Finance summary chart:
-        <img width="687" alt="image" src="https://github.com/user-attachments/assets/2f267b09-d7ed-4dd6-821e-dac9db6b8642" />
+
+
+
 
 
 
