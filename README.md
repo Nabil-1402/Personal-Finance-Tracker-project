@@ -2,6 +2,7 @@
 A full-stack personal finance tracker built with Java, Spring Boot, JavaFX and MySQL. The application allows users to securely register, log in, and manage income and expenses through a clean and interactive dashboard.
 
 🖥️ Features:
+
 User registration and login with Spring Security
 Add, edit, and delete expenses and income entries
 Dashboard with summaries and financial stats
@@ -10,6 +11,7 @@ MySQL database integration
 
 
 🛠️ Tech Stack:
+
 Backend: Java, Spring Boot
 Frontend: JavaFX
 Database: MySQL
