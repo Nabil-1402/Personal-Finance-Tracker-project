@@ -4,18 +4,28 @@ A full-stack personal finance tracker built with Java, Spring Boot, JavaFX and M
 🖥️ Features:
 
 User registration and login with Spring Security
+
 Add, edit, and delete expenses and income entries
+
 Dashboard with summaries and financial stats
+
 RESTful APIs and MVC architecture
+
 MySQL database integration
+
+
 
 
 🛠️ Tech Stack:
 
 Backend: Java, Spring Boot
+
 Frontend: JavaFX
+
 Database: MySQL
+
 Testing: Postman (API testing)
+
 Tools: Maven, GitHub
 
 📸 Screenshots:
