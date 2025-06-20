@@ -22,14 +22,14 @@ Tools: Maven, GitHub
 <img width="1020" alt="Screenshot 2025-06-20 at 15 26 21" src="https://github.com/user-attachments/assets/75322762-4504-4020-9bb4-4ac4f55e3fd9" />
 
     Create and view categories dialog:
-    <img width="310" alt="Screenshot 2025-06-20 at 15 42 45" src="https://github.com/user-attachments/assets/f9b17b75-fe22-4279-86bf-623fee3bc9f6" />
-    <img width="809" alt="Screenshot 2025-06-20 at 15 43 17" src="https://github.com/user-attachments/assets/7756fbbd-dca2-40e3-b554-c1e5959172aa" />
+<img width="310" alt="Screenshot 2025-06-20 at 15 42 45" src="https://github.com/user-attachments/assets/f9b17b75-fe22-4279-86bf-623fee3bc9f6" />
+<img width="809" alt="Screenshot 2025-06-20 at 15 43 17" src="https://github.com/user-attachments/assets/7756fbbd-dca2-40e3-b554-c1e5959172aa" />
 
     Recent transactions and transaction table:
-    <img width="1461" alt="Screenshot 2025-06-20 at 15 43 48" src="https://github.com/user-attachments/assets/9ff3b436-ae0e-4afb-985e-74d22aa064a3" />
+<img width="1461" alt="Screenshot 2025-06-20 at 15 43 48" src="https://github.com/user-attachments/assets/9ff3b436-ae0e-4afb-985e-74d22aa064a3" />
 
     Finance summary:
-    <img width="687" alt="Screenshot 2025-06-20 at 15 44 23" src="https://github.com/user-attachments/assets/64a98be5-086b-466d-b20e-e2ead9b89dec" />
+<img width="687" alt="Screenshot 2025-06-20 at 15 44 23" src="https://github.com/user-attachments/assets/64a98be5-086b-466d-b20e-e2ead9b89dec" />
 
 
 
