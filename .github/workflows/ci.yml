@@ -1,0 +1,30 @@
+name: CI
+
+# Run this pipeline on every push and every pull request targeting main
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-backend:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Pulls repo's code onto the runner
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      # 2. Installs a JDK on the runner - match this to whatever version you built the project with
+      - name: Set up JDK 24
+        uses: actions/setup-java@v4
+        with:
+          java-version: '24'
+          distribution: 'temurin'
+          cache: maven
+
+      # 3. Compiles the Spring Boot backend only
+      - name: Build backend with Maven
+        working-directory: ./backend
+        run: mvn -B compile
