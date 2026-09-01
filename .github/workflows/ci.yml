@@ -26,5 +26,5 @@ jobs:
 
       # 3. Compiles the Spring Boot backend only
       - name: Build backend with Maven
-        working-directory: ./backend
+        working-directory: ./expense-tracker-springboot-server
         run: mvn -B compile
